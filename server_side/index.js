@@ -10,7 +10,7 @@ db.on("error",()=>{
     console.log("error occured in connecting database ");
 })
 app.use(express.json());
-require("./routes.js/r1").app;
+require("./routes/r1")(app);
 app.listen(3000,()=>{
     console.log("server started succesfully");
 })
