@@ -1,0 +1,38 @@
+A cross-platform mobile application built with React Native, powered by a Node.js backend and MongoDB database, designed to streamline hostel operations including room allocation, resident management, complaint handling, payment tracking, and more.
+
+📱 Tech Stack
+Frontend: React Native
+
+Backend: Node.js, Express.js
+
+Database: MongoDB (with Mongoose ORM)
+
+Authentication: JWT (JSON Web Tokens)
+
+State Management: Context API / Redux (based on your implementation)
+
+Deployment: Optional — include if hosted (Heroku, Render, Vercel, etc.)
+
+🔑 Features
+👨‍💼 Admin
+Manage student/resident profiles
+
+Allocate/deallocate rooms
+
+View occupancy status
+
+View and resolve complaints
+
+Generate reports
+
+🧑‍🎓 Student / Resident
+Register/login
+
+View room details and allocation
+
+Submit complaints or requests
+
+View payment history and dues
+
+Notifications for important announcements
+
